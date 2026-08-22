@@ -26,5 +26,4 @@ Why do i want to make a non GNU project?
 It is because i want the traditional U*IX-like OS that is going to be free for everyone as for my goal.
 
 License:
-BSD-2-Clause clause license.
-Check out the license too!
+BSD-2-Clause license.
