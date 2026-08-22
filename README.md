@@ -1,9 +1,11 @@
-This is Hylix OS Source:
+This is Hylix OS Source Code:
 ---------------
+
+This is a FreeBSD derived OS
 
 Who is this for:
 
-For a alternative to a W*ndows 11, to breath fresh air to a new and experimental Operating System.
+For a alternative to W*ndows 11, to breath fresh air to a new and experimental Operating System.
 
 Why did i fork and make this FreeBSD derived OS?
 
