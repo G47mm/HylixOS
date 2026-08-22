@@ -14,7 +14,7 @@ and because i am tired of W*ndows 11 and i dont want to make a GNU/Linux distro 
 
 Why dont i make a GNU/Linux distro?
 
-I want to make a Non GNU project but i will add the linux kernel inside this OS because for more broader compatibility
+I want to make a Non GNU based OS but i will add the linux kernel inside this OS because for more broader compatibility
 and want the FreeBSD userland to feel like something new for others and myself.
 
 Is it going to be bloated like W*ndows 11?
