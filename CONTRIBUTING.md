@@ -43,8 +43,11 @@ Feature requests should include:
 - An example of how it could be used
 - Any possible alternative solutions
 
- ## Code Guidelines
+ ## Code Guidelines, Copyright, Licensing, and Legal Compliance
  1. Contributors must submit only original work or content they are legally authorized to use. Do not include copyrighted code, images, documentation, or other materials without an appropriate license. Contributions that may infringe copyright will be rejected.
+ 2. Code must have to be properly tested via virtual machine or in a actual computer or the code will be rejected.
+ 3. There cannot be unlicensed code nor malware, ransomware, proprietary code and contributors must submit only original code or code distributed under a compatible open-source license. Do not submit proprietary, copied, unlicensed, or copyright-infringing code. Contributors must comply with all applicable licenses and provide attribution where required. Malicious or unlawful code will not be accepted.
+
 
 ## Development Setup
 
