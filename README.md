@@ -14,7 +14,7 @@ and because i am tired of W*ndows 11 and i dont want to make a GNU/Linux distro 
 
 Why dont i make a GNU/Linux distro?
 
-I want to make a Non GNU based OS but i will add the linux kernel inside this OS because for more broader compatibility
+I want to make a Non GNU based OS but i will add the linux kernel but one execption: glibc inside this OS because for more broader compatibility
 and want the FreeBSD userland to feel like something new for others and myself.
 
 Is it going to be bloated like W*ndows 11?
@@ -26,6 +26,7 @@ Why do i want to make a non GNU project?
 It is because i want the traditional U*IX-like OS that is going to be free for everyone as for my goal.
 
 Will it be compatible with FreeDOS or MSDOS programs?
+
 Yes it will in fact.
 
 License:
