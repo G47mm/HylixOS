@@ -49,5 +49,5 @@ Feature requests should include:
 2. Clone your fork:
 
    ```bash
-   git clone https://github.com/USERNAME/REPOSITORY.git
-   cd REPOSITORY
+   https://github.com/G47mm/HylixOS.git
+   cd HylixOS
