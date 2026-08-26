@@ -25,5 +25,8 @@ Why do i want to make a non GNU project?
 
 It is because i want the traditional U*IX-like OS that is going to be free for everyone as for my goal.
 
+Will it be compatible with FreeDOS or MSDOS programs?
+Yes it will in fact.
+
 License:
 BSD-2-Clause license.
