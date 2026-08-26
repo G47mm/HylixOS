@@ -43,6 +43,9 @@ Feature requests should include:
 - An example of how it could be used
 - Any possible alternative solutions
 
+ ## Code Guidelines
+ 1. Contributors must submit only original work or content they are legally authorized to use. Do not include copyrighted code, images, documentation, or other materials without an appropriate license. Contributions that may infringe copyright will be rejected.
+
 ## Development Setup
 
 1. Fork this repository.
@@ -51,6 +54,3 @@ Feature requests should include:
    ```bash
    https://github.com/G47mm/HylixOS.git
    cd HylixOS
-
-   ## Code Guidelines
-   1. Contributors must submit only original work or content they are legally authorized to use. Do not include copyrighted code, images, documentation, or other materials without an appropriate license. Contributions that may infringe copyright will be rejected.
