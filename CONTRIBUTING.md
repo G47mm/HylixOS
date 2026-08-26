@@ -34,6 +34,9 @@ Include the following information:
 - Operating system and version
 - Relevant error messages or screenshots
 
+Before Coding:
+Look at the ## Code Guidelines, Copyright, Licensing and Legal Compliance
+
 ## Suggesting Features
 
 Feature requests should include:
