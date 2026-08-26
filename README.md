@@ -27,7 +27,7 @@ It is because i want the traditional U*IX-like OS with the FreeBSD userland that
 
 Will HylixOS be compatible with FreeDOS or MSDOS programs?
 
-Yes HylixOS will in fact it will be compatible with most programs.
+Yes HylixOS will in fact it will be compatible with most programs and of course as a open source implementation.
 
 Will HylixOS be compatible with other W#ndows programs?
 
