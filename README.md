@@ -23,7 +23,7 @@ No it is not going to be bloated like W*ndows 11, in fact we want the best for o
 
 Why do i want to make a non GNU project?
 
-It is because i want the traditional U*IX-like OS that is going to be free for everyone as for my goal.
+It is because i want the traditional U*IX-like OS with the FreeBSD userland that is going to be free for everyone as for my goal.
 
 Will it be compatible with FreeDOS or MSDOS programs?
 
