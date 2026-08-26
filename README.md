@@ -1,7 +1,7 @@
 This is Hylix OS Source Code:
 ---------------
 
-This is a FreeBSD derived OS
+This is a FreeBSD derived OS.
 
 Who is this for:
 
