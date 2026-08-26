@@ -51,3 +51,6 @@ Feature requests should include:
    ```bash
    https://github.com/G47mm/HylixOS.git
    cd HylixOS
+
+   ## Code Guidelines
+   1. Contributors must submit only original work or content they are legally authorized to use. Do not include copyrighted code, images, documentation, or other materials without an appropriate license. Contributions that may infringe copyright will be rejected.
