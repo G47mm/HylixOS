@@ -3,7 +3,7 @@ This is Hylix OS Source Code:
 
 This is a FreeBSD derived OS.
 
-Who is this for:
+Who is this for?
 
 For a alternative to W*ndows 11, to breath fresh air to a new and experimental Operating System.
 
