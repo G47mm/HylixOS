@@ -27,7 +27,7 @@ It is because i want the traditional U*IX-like OS that is going to be free for e
 
 Will it be compatible with FreeDOS or MSDOS programs?
 
-Yes it will in fact.
+Yes it will in fact it will be compatible with most programs
 
 License:
 BSD-2-Clause license.
