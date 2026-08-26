@@ -17,7 +17,7 @@ You can contribute by:
 - Adding tests
 - Improving code quality or performance
 
-## Reporting Bugs
+## Reporting Bugs and Adding Features
 
 Before opening a bug report:
 
@@ -35,8 +35,9 @@ Include the following information:
 - Relevant error messages or screenshots
 
 Before Coding:
-Look at the 
-## Code Guidelines, Copyright, Licensing and Legal Compliance
+1. Follow the "Code Guidelines, Copyright, Licensing and Legal Compliance".
+2. To have Advanced Knowledge for C or C++ and assembly.
+3. To help the project grow and help the project to be a better OS.
 
 ## Suggesting Features
 
