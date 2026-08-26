@@ -35,7 +35,8 @@ Include the following information:
 - Relevant error messages or screenshots
 
 Before Coding:
-Look at the ## Code Guidelines, Copyright, Licensing and Legal Compliance
+Look at the 
+## Code Guidelines, Copyright, Licensing and Legal Compliance
 
 ## Suggesting Features
 
