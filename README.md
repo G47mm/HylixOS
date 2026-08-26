@@ -25,9 +25,13 @@ Why do i want to make a non GNU project?
 
 It is because i want the traditional U*IX-like OS with the FreeBSD userland that is going to be free for everyone as for my goal.
 
-Will it be compatible with FreeDOS or MSDOS programs?
+Will HylixOS be compatible with FreeDOS or MSDOS programs?
 
-Yes it will in fact it will be compatible with most programs
+Yes HylixOS will in fact it will be compatible with most programs.
+
+Will HylixOS be compatible with other W#ndows programs?
+
+Yes HylixOS will as a open source implementation.
 
 License:
 BSD-2-Clause license.
