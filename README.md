@@ -15,7 +15,7 @@ and because i am tired of W*ndows 11 and i dont want to make a GNU/Linux distro 
 Why dont i make a GNU/Linux distro?
 
 I want to make a Non GNU based OS but i will add the linux kernel but one execption: glibc inside this OS because for more broader compatibility
-and want the FreeBSD userland to feel like something new for others and myself.
+and want the FreeBSD userland to feel like something new for others and something new to make for myself.
 
 Is it going to be bloated like W*ndows 11?
 
