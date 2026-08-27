@@ -31,7 +31,7 @@ Yes HylixOS will in fact it will be compatible with most programs and of course 
 
 Will HylixOS be compatible with other W#ndows programs?
 
-Yes HylixOS will as a open source implementation.
+Yes HylixOS will as a open source implementation but not in the early days of this operating system
 
 License:
 BSD-2-Clause license (Mostly).
