@@ -31,7 +31,7 @@ Yes HylixOS will in fact it will be compatible with most programs and of course 
 
 Will HylixOS be compatible with other W#ndows programs?
 
-Yes HylixOS will as a open source implementation but not in the early days of this operating system since this has to be reverse engineered which i wont accept to add into my code or i have to read someone who already reverse engineered the code and add my own implementation to this code that i got the knowledge from that code that i have not copy pasted the proprietary code.
+Yes HylixOS will add the code as a open source implementation but not in the early days of this operating system since W#ndows has to be reverse engineered which i wont accept to add into my code as a proprietary code or i have to read someone who already reverse engineered the code and add my own implementation to this code that i got the knowledge from that code that i have not copied nor pasted the proprietary code.
 
 License:
 BSD-2-Clause license (Mostly).
